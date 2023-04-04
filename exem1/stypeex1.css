@@ -1,0 +1,135 @@
+.dvm1 {
+        display: inline-block;
+        margin-left: 190px;
+        margin-right: 190px;
+        border: 2px;
+        padding: 3px;
+        width: 800px;
+        height: 90px;
+        color: red;
+        text-align: center;
+
+}
+.dv1 {
+        display: inline-block;
+        margin-left: 5px;
+        margin-right: 100px;
+        border: 2px;
+        padding: 10px;
+        width: 50px;
+        height: 50px;
+}
+.dv2 {
+        display: inline-block;
+        margin-left: 0x;
+        margin-right: 1px;
+        border: 1px;
+        padding: 0px;
+        width: 250px;
+        height: 50px;
+} 
+.dv21 {
+       display: inline-block;
+       margin-left: 0px;
+       margin-right: 1px;
+       border: 1px;
+       padding: 0px;
+       width: 50px;
+       height: 30px;
+      }
+.dv22 {
+       display: inline-block;
+       margin-left: 0px;
+       margin-right: 1px;
+       border: 1px;
+       padding: 0px;
+       width: 50px;
+       height: 30px;
+}
+.dv23 {
+       display: inline-block;
+       margin-left: 0x;
+       margin-right: 1px;
+       border: 1px;
+       padding: 0px;
+       width: 50px;
+       height: 30px;
+}
+.dv24 {
+       display: inline-block;
+       margin-left: 0px;
+       margin-right: 0px;
+       border: 1px;
+       padding: 0px;
+       width: 50px;
+       height: 30px;
+}
+.dv3 {
+      display: inline-block;
+      margin-left: 0x;
+      margin-right: 0px;
+      border: 2px;
+      padding: 3px;
+      width: 80px;
+      height: 50px;
+}
+.dvm2 {
+       display: block;
+       margin-left: 0px;
+       margin-right: 0px;
+       border: 2px;
+       padding: 3px;
+       width: 600px;
+       height:1000px;
+       color: blue;
+}
+.dvc {
+      display: block;
+      margin-left: 500px;
+      margin-right: 500px;
+      border: 2px;
+      padding: 3px;
+      width: 600px;
+      height: 800px;
+      color: black;
+}
+.dvc1 {
+       display: block;
+       margin-left: 50px;
+       margin-right: 50px;
+       border: 0px;
+       padding: 0px;
+       width: 300px;
+       height: 80px;
+       color: red;
+       font-size: 30px;
+}
+.dvc2 {
+       display: block;
+       margin-left: 10px;
+       margin-right: 10px;
+       border: 0px;
+       padding: 0px;
+       width: 300px;
+       height: 25px;
+       color: red;
+}
+.dvc3 {
+       display: block;
+       margin-left: 10px;
+       margin-right: 10px;
+       border: 0px;
+       padding: 0px;
+       width: 300px;
+       height: 25px;
+       color: red;
+}
+.dvc4 {
+       display: block;
+       margin-left: 130px;
+       margin-right: 10px;
+       border: 0px;
+       padding: 0px;
+       width: 300px;
+       height: 30px;
+}
